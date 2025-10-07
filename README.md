@@ -56,3 +56,6 @@ The project follows a comprehensive roadmap and involves executing several key a
 
 ### Link and Sources
 
+[SQL script](https://github.com/gcasarin/SQL_Project-Sales_Performance_Insights/blob/main/Sales_Performance_Insight.sql)
+
+[[Data Analytics Master-Start2Impact University]](https://www.start2impact.it/master/data-science-analytics/)
