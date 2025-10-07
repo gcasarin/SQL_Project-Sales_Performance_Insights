@@ -25,7 +25,7 @@ The project follows a comprehensive roadmap and involves executing several key a
 - **Part-to-Whole Analysis**: To determine the proportional contribution of a segment to the total (e.g., calculating the percentage contribution of a specific category to overall sales).
 - **Data Segmentation**: To group data into specific, meaningful ranges, thereby creating new dimensions for analysis (e.g., segmenting products by cost brackets or customers by their spending behavior)."
 
-
+![running_total_sales.png](https://github.com/gcasarin/SQL_Project-Sales_Performance_Insights/blob/main/charts/Running_total_sales.png)
 
 ### Data Sources
 
@@ -48,7 +48,7 @@ The project follows a comprehensive roadmap and involves executing several key a
 
 ### Exploratory Data Analysis
 
-
+![sale_per_country.png](https://github.com/gcasarin/SQL_Project-Sales_Performance_Insights/blob/main/charts/Sold_items_per_country.png)
 
 ### Analysis Results 
 
